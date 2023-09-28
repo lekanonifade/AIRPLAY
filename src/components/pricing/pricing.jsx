@@ -4,7 +4,7 @@ export default function Pricing() {
     return (
         <div className="flex flex-row gap-10 w-full py-10 px-28 h-max">
 
-            <div className="flex flex-col gap-10 text-white w-1/3 bg-[url('public/images/pricing.svg')] bg-no-repeat px-20">
+            <div className="flex flex-col gap-10 text-white w-1/3 bg-[url('../images/pricing.svg')] bg-no-repeat px-20">
                 <p className="text-4xl mt-10">Save your money now.</p>
                 <p className="text-base">Manage your company both in few easy steps, join our Pro plan to try at 360 of our service.</p>
                 <p className="text-base">Start your 14 days of pro plan you can always upgrade it or stay with the lite version for free.</p>

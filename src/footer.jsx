@@ -5,7 +5,7 @@ import React from "react";
 
 export default function Footer() {
     return (
-        <div className="flex justify-between p-5 px-10 bg-[url('public/images/footer.svg')] bottom-0 text-white h-[30vh]">
+        <div className="flex justify-between p-5 px-10 bg-[url('../images/footer.svg')] bottom-0 text-white h-[30vh]">
             <div className="flex flex-col gap-5">
                 <p className="font-bold">AIRPLAY</p>
                 <div className="flex flex-col gap-3">
